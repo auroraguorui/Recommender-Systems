@@ -22,4 +22,16 @@
    
    https://github.com/EthanRosenthal/DataPiques_source/blob/master/content/notebooks/2016-11-7-implicit-mf-part-2.ipynb
    
-5. 
+5. Using Keras' Pretrained Neural Networks for Visual Similarity Recommendations
+
+   http://blog.ethanrosenthal.com/2016/12/05/recasketch-keras/
+   
+6. Rec-a-Sketch: a Flask App for Interactive Sketchfab Recommendations
+   
+   http://blog.ethanrosenthal.com/2017/02/05/rec-a-sketch/
+   
+7. Matrix Factorization in PyTorch
+
+   http://blog.ethanrosenthal.com/2017/06/20/matrix-factorization-in-pytorch/
+   
+   
