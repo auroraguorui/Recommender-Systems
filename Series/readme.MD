@@ -25,6 +25,8 @@
 5. Using Keras' Pretrained Neural Networks for Visual Similarity Recommendations
 
    http://blog.ethanrosenthal.com/2016/12/05/recasketch-keras/
+   
+   VGG models: https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/
    
 6. Rec-a-Sketch: a Flask App for Interactive Sketchfab Recommendations
    
