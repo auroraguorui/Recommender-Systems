@@ -4,3 +4,5 @@ Summary:
 1. https://zhuanlan.zhihu.com/p/25936140
 
 2. https://zhuanlan.zhihu.com/p/25343518
+
+Code in TensorFlow: https://github.com/ogerhsou/Youtube-Recommendation-Tensorflow
