@@ -28,3 +28,11 @@ https://github.com/valeriobasile/listnet
 https://github.com/fullflu/learning-to-rank
 
 https://github.com/o19s/elasticsearch-learning-to-rank
+
+
+Ranking:
+1. https://medium.com/hacking-and-gonzo/how-hacker-news-ranking-algorithm-works-1d9b0cf2c08d
+
+2. http://www.evanmiller.org/how-not-to-sort-by-average-rating.html
+
+3. https://medium.com/hacking-and-gonzo/how-reddit-ranking-algorithms-work-ef111e33d0d9
